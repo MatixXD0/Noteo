@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Noteo</string>
+    <string name="app_description">Noteo es una aplicación móvil moderna e intuitiva que facilita la gestión de notas y listas de tareas. Con Noteo, puedes anotar rápidamente ideas, organizar tareas diarias y establecer plazos para su finalización. La aplicación cuenta con una interfaz clara, asegurando comodidad y eficiencia al planificar tu día. ¡Noteo, tu centro de productividad en tu bolsillo!</string>
+    <string name="app_version">Versión de la aplicación: 1.2.3</string>
+    <string name="app_technical_details">Detalles técnicos</string>
+    <string name="note_title">Título</string>
+    <string name="note_description">Descripción</string>
+    <string name="note_color">Selecciona el color de la nota:</string>
+    <string name="note_add_button">Agregar nota</string>
+    <string name="note_update_button">Actualizar nota</string>
+    <string name="note_snack_enter_the_note_name">Ingresa el nombre de la nota</string>
+    <string name="note_snack_enter_a_description_of_the_note">¡Ingresa una descripción de la nota!</string>
+    <string name="task_edit">Editar tarea</string>
+    <string name="task_add_tittle">Agregar tarea</string>
+    <string name="task_name">Nombre de la tarea</string>
+    <string name="task_add_button">Agregar tarea</string>
+    <string name="task_update_button">Actualizar tarea</string>
+    <string name="task_snack_pick_a_date">¡Elige una fecha!</string>
+    <string name="task_snack_name_the_task">¡Nombra la tarea!</string>
+    <string name="theme_name_light">Tema claro</string>
+    <string name="theme_name_dark">Tema oscuro</string>
+    <string name="dev_1_name">John Doe</string>
+    <string name="dev_1_role">Desarrollador Android</string>
+    <string name="dev_1_phone">+123456789</string>
+    <string name="dev_1_email">john.doe@example.com</string>
+    <string name="dev_2_name">Jane Smith</string>
+    <string name="dev_2_role">Desarrolladora Backend</string>
+    <string name="dev_2_phone">+987654321</string>
+    <string name="dev_2_email">jane.smith@example.com</string>
+    <string name="theme_description_light">Colores claros y brillantes para una mejor visibilidad durante el día.</string>
+    <string name="theme_description_dark">Colores oscuros para reducir la fatiga visual en condiciones de poca luz.</string>
+    <string name="icon">Ícono</string>
+    <string name="delete_icon">Eliminar ícono</string>
+    <string name="menu_icon">Ícono de menú</string>
+    <string name="screen_name_note_add_edit_screen">Agregar/Editar nota</string>
+    <string name="screen_name_task_add_edit_screen">Agregar/Editar tarea</string>
+    <string name="screen_name_settings">Configuración</string>
+    <string name="screen_name_about_app">Acerca de la aplicación</string>
+    <string name="screen_name_contact">Contacto</string>
+    <string name="screen_name_notes_list">Lista de notas</string>
+    <string name="screen_name_todo_list">Lista de tareas</string>
+    <string name="select_theme">Selecciona un tema</string>
+    <string name="task_deadline">Fecha límite:</string>
+</resources>

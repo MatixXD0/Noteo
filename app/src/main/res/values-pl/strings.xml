@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Noteo</string>
+    <string name="app_description">Noteo to nowoczesna i intuicyjna aplikacja mobilna, która ułatwia zarządzanie notatkami i listami zadań. Dzięki Noteo możesz szybko zapisywać pomysły, organizować codzienne zadania i ustalać terminy ich realizacji. Aplikacja oferuje przejrzysty interfejs, zapewniając wygodę i efektywność w planowaniu dnia. Noteo – Twoje centrum produktywności w kieszeni!</string>
+    <string name="app_version">Wersja aplikacji: 1.2.3</string>
+    <string name="app_technical_details">Szczegóły techniczne</string>
+    <string name="note_title">Tytuł</string>
+    <string name="note_description">Opis</string>
+    <string name="note_color">Wybierz kolor notatki:</string>
+    <string name="note_add_button">Dodaj notatkę</string>
+    <string name="note_update_button">Zaktualizuj notatkę</string>
+    <string name="note_snack_enter_the_note_name">Wprowadź nazwę notatki</string>
+    <string name="note_snack_enter_a_description_of_the_note">Wprowadź opis notatki!</string>
+    <string name="task_edit">Edytuj zadanie</string>
+    <string name="task_add_tittle">Dodaj zadanie</string>
+    <string name="task_name">Nazwa zadania</string>
+    <string name="task_add_button">Dodaj zadanie</string>
+    <string name="task_update_button">Zaktualizuj zadanie</string>
+    <string name="task_snack_pick_a_date">Wybierz datę!</string>
+    <string name="task_snack_name_the_task">Nazwij zadanie!</string>
+    <string name="theme_name_light">Jasny motyw</string>
+    <string name="theme_name_dark">Ciemny motyw</string>
+    <string name="dev_1_name">John Doe</string>
+    <string name="dev_1_role">Programista Android</string>
+    <string name="dev_1_phone">+123456789</string>
+    <string name="dev_1_email">john.doe@example.com</string>
+    <string name="dev_2_name">Jane Smith</string>
+    <string name="dev_2_role">Programista Backend</string>
+    <string name="dev_2_phone">+987654321</string>
+    <string name="dev_2_email">jane.smith@example.com</string>
+    <string name="theme_description_light">Jasne i lekkie kolory dla lepszej widoczności w ciągu dnia.</string>
+    <string name="theme_description_dark">Ciemne kolory, aby zmniejszyć zmęczenie oczu w słabym oświetleniu.</string>
+    <string name="icon">Ikona</string>
+    <string name="delete_icon">Usuń ikonę</string>
+    <string name="menu_icon">Ikona menu</string>
+    <string name="screen_name_note_add_edit_screen">Dodaj/Edytuj notatkę</string>
+    <string name="screen_name_task_add_edit_screen">Dodaj/Edytuj zadanie</string>
+    <string name="screen_name_settings">Ustawienia</string>
+    <string name="screen_name_about_app">O aplikacji</string>
+    <string name="screen_name_contact">Kontakt</string>
+    <string name="screen_name_notes_list">Lista notatek</string>
+    <string name="screen_name_todo_list">Lista zadań</string>
+    <string name="select_theme">Wybierz motyw</string>
+    <string name="task_deadline">Termin:</string>
+</resources>
